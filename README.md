@@ -1,1 +1,1 @@
-> "All those moments will be lost in time, like tears in rain."
+> I code like Aphex Twin makes music.
